@@ -11,12 +11,13 @@ baseurl:
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/mhyderimtiaz
+  - title: github
+    url: https://github.com/mhyderimtiaz
   - title: medium
     url: https://medium.com/@mhyderimtiaz
   - title: twitter
     url: https://twitter.com/mhyderimtiaz
-  - title: github
-    url: https://github.com/mhyderimtiaz
+  
     
 # Google webmaster tools
 google_verify:
